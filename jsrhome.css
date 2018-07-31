@@ -1,0 +1,118 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+html
+{
+	background-size: cover;
+}
+#width1
+ {
+
+ 	width: 100%;
+ }
+ #map1
+ {
+ 	text-align: center;
+ 	font-family: 'Cinzel', serif;
+ 	font-size: 2em;
+ 	padding-top:5%;
+ 	padding-bottom:3%
+ }
+ #map2
+ {
+ 	text-align: center;
+ 	font-family: 'Cinzel', serif;
+ 	font-size: 1em;
+ 	padding-top:2%;
+ 	padding-bottom:2%
+
+ }
+ .wid
+ {
+ 	width: 100%;
+
+ }
+ #widpad
+ {
+ 	padding-bottom: 5%;
+ }
+ #style
+ {
+ 	text-align: center;
+ 	padding-top: 4%;
+ 	font-family: TAJAN PRO;
+ }
+
+ #style1
+ {
+ 	font-size: 0.7em;
+ 	padding-left: 4%;
+ 	padding-right: 4%;
+ }
+ .bell
+ {
+ 	text-align: center;
+ 	padding-top: 5%;
+ }
+ #styletext
+ {
+ 	font-size: 3em;
+ 	padding-top: 20%;
+ 	text-align: center;
+ 	font-family: 'Cinzel', serif;
+
+ }
+ #text1
+ {
+  font-family: 'Kaushan Script', cursive;
+  text-align: center;
+  padding-top: 5%;
+  font-size: 2em; 
+ }
+ #box
+ {
+ 	height: 80vh;
+	width: 100%;
+	background-image: url("ttt.jpg");
+	background-size: cover;
+	display: inline;
+	background-attachment: fixed;
+
+	
+ }
+.work
+{
+	text-align: right;
+ 	font-family: TAJAN PRO;
+ 	padding-top: 10%;
+ 	padding-right: 20%;
+ 	font-family: 'Cinzel', serif;
+ 	font-size: 3em;
+
+}
+ .set
+ {
+ 	width: 100%;
+ 	padding-top: 5%;
+
+ }
+#locate
+{
+	padding-left: 10%;
+	padding-top: 10%;
+	font-size: 3em;
+}
+.set
+ {
+ 	width: 100%;
+ 	padding-top: 5%;
+
+ }
+ #set2
+ {
+ 	font-size: 3em;
+ 	text-shadow: 500px;
+ 	padding-top: 40%;
+ }

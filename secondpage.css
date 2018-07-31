@@ -1,0 +1,147 @@
+
+h1
+{
+	text-align: center;
+	font-family: aria;
+	
+	font-size: 4em;
+	margin: 0px;
+	display: table-cell;
+	vertical-align: middle;
+
+}
+
+
+body
+{
+	margin: 0%;
+	padding: 0;
+
+}
+html
+{
+	height: 100%;
+}
+#box1
+{
+	height: 100vh;
+	width: 100%;
+	background-image: url("compo.jpg");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+	 
+}
+#box2
+{
+	height: 100vh;
+	width: 100%;
+	background-image: url();
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+
+	 
+}
+
+
+#box3
+
+{
+	height: 100vh;
+	width: 100%;
+	background-image: url("luxury.jpg");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+	 
+}
+#box4
+{
+	height: 100vh;
+	width: 100%;
+	background-image: url("");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+	
+	 
+}
+#box5
+{
+	height: 100vh;
+	width: 100%;
+	background-image: url("parallex.jpg");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+
+	 
+}
+ .brand
+ {
+ 	padding-right: 20%;
+ }
+   .cardstyle
+   {
+   	padding-top: 12%;
+   }
+   .branding
+   {
+   	font-size: .5em;
+   	font-family: 'Kaushan Script', cursive;
+   	color: white;
+
+   }
+   #bb
+   {
+   	font-family: 'Kaushan Script', cursive;
+   	padding-bottom: 2%;
+   }
+   .experience
+   {
+   	color: white;
+   	 font-family: 'Kaushan Script', cursive;
+   	 text-align: left;
+   	 vertical-align: top;
+   	 padding-top: 5%;
+   	 padding-left: 1%;
+   	 font-size: 3em;
+
+   }
+   .review
+   {
+   	padding: 8%;
+   }
+   #map1
+ {
+ 	text-align: center;
+ 	font-family: 'Cinzel', serif;
+ 	font-size: 2em;
+ 	padding-top:5%;
+ 	padding-bottom:3%;
+ 	padding-left: 30%;
+ }
+ #map2
+ {
+ 	text-align: right;
+ 	
+ 	font-family: 'Cinzel', serif;
+ 	font-size: 2em;
+ 	padding-top:5%;
+ 	padding-bottom:3%
+
+ }
+ .pos
+ {
+ 	padding-left: 30%;
+ }
+ #map4
+ {
+ 	text-align: center;
+ 	font-family: 'Cinzel', serif;
+ 	font-size: 2em;
+ 	padding-top:5%;
+ 	padding-bottom:3%;
+ 	 
+ }

@@ -1,0 +1,29 @@
+body
+{
+	background-image: url(landingpage.jpg);
+	background-image visibility:0%;
+
+	background-size: cover;
+	background-position: center;
+	
+	color: white;
+
+}
+html
+{
+	height:100%;
+
+}
+ .container
+ {
+text-align: center;
+padding-top: 11%;
+
+ }
+ #fff
+ {
+ 	font-size: 5em;
+ 	font-family:font-family: 'Cinzel', serif;
+ 	 
+
+ }

@@ -1,0 +1,1 @@
+prompt("Please enter your favourite taste for customize experience:SWEET OR SALTY");

@@ -1,0 +1,88 @@
+body
+{
+	margin: 0%;
+	padding: 0%;
+}
+#box1
+
+{
+	height: 100vh;
+	width: 100%;
+	background-image: url("aroma.jpg");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+	 
+}
+#box2
+
+{
+	height: 100vh;
+	width: 100%;
+	background-image: url("pptt.jpg");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+	 
+}
+#box3
+
+{
+	height: 80vh;
+	width: 100%;
+	background-image: url("coffee.jpg");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+	 
+}
+#box4
+
+{
+	height: 80vh;
+	width: 100%;
+	background-image: url("");
+	background-size: cover;
+	display: table;
+	background-attachment: fixed;
+	 
+}
+ 
+#FOODFONT
+{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 3em;
+	text-align: center;
+	color: white;
+}
+#menu
+{
+	padding-left: 15%;
+	padding-bottom: 5%;
+}
+#style
+{
+font-family: 'Kaushan Script', cursive;
+text-align: center;
+	color: white;
+	padding-bottom: 3%;
+
+}
+#menu1
+{
+	padding-left: %;
+	padding-top: 5%;
+}
+#ORDER{
+	text-align: right-top;
+	color: white;
+
+
+}
+#sty
+{
+	padding: 10%;
+	font-family: 'Kaushan Script', cursive;
+	color: white;
+	font-size: 3em;
+}

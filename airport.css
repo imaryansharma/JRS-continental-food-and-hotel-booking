@@ -1,0 +1,60 @@
+body{
+	background-image: url(BAR.jpg);
+	background-size: cover;
+
+}
+html
+{
+	height: 100%
+}
+#box
+{
+	background-color: black;
+	height: 500px;
+	margin: 4% 30% 10% 30%;
+	opacity: 0.7;
+}
+.RAR
+{
+	color: white;
+	padding-left: 10%;
+	padding-top: 5%;
+
+
+}
+#rj
+{
+	font-size: 2em;
+}
+#iid
+{
+	padding-left: 20%;
+}
+.space
+{
+	padding-left: 5%;
+}
+
+ #res
+ {
+ 	padding-top: 8%;
+ }
+ #res1
+ {
+ 	padding-left:  8%;
+ }
+ .but
+ {
+ 	background-color: white;
+ 	margin-top: 8%;
+ 	margin-left: 35%;
+
+ }
+ #book
+ {
+ 	text-align: center;
+ 	padding-top: 4%;
+ 	color: white;
+ 	
+ font-size: 3em;
+}

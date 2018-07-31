@@ -1,0 +1,62 @@
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    margin: 0%;
+    padding: 0%;
+    background-size: cover;
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+#style
+{
+    font-size: 4em;
+    text-align: center;
+    color: white;
+    padding-top: 4%;
+    opacity: .7;
+
+}
+#style1
+{
+    font-size: 1.8em;
+    text-align: center;
+    color: white;
+     
+    opacity: .7;
+    padding-bottom: 3%;
+}
+.png
+{
+   width: 50%;
+
+    
+
+}
+#follow
+{
+    font-style:  cursive;
+    font-size: 2em;
+    color: white;
+    opacity: .4;
+    text-align: center;
+
+}
+.png1
+{
+   width: 30%;
+
+    
+
+}
